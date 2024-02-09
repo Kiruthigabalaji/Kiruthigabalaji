@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kiruthigabalaji
+- 👋 Hi, I’m @Kiruthiga S
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning and exploring Machine Learning algorithms
 
